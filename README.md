@@ -290,7 +290,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👤 Author
 
-**Your Name** - [Puspendu Nayak]((https://github.com/PuspenduNayak)
+Puspendu Nayak(https://github.com/PuspenduNayak)
 
 ## 📞 Suppor
 
